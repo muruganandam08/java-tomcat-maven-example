@@ -1,4 +1,4 @@
 FROM tomcat:latest
 MAINTAINER muruganandam08
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./java-tomcat-maven-example.war /usr/local/tomcat/webapps
 
